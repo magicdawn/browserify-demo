@@ -1,0 +1,4 @@
+{
+  "jquery": "jquery",
+  "./modulea.js": "a"
+}

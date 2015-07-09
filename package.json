@@ -1,0 +1,11 @@
+{
+  "name": "browserify-demo",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "jquery": "^1.11.3",
+    "koa": "^0.21.0"
+  }
+}
